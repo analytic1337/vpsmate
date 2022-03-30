@@ -1,0 +1,6 @@
+pip3 install requests
+pip3 install pysocks
+pip3 install socks
+pip3 install cfscrape
+pip3 install icmplib
+pip3 install scapy
